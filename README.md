@@ -1,4 +1,4 @@
-<snippet>
+
   <content><![CDATA[
 # ${1:AGV Discussion Chapter}
 Welcome to the homepage of Autonomous Ground Vehicle reading group at IIT Kharagpur.
@@ -33,4 +33,4 @@ Harshit Sikchi
 
 ]]></content>
   <tabTrigger>readme</tabTrigger>
-</snippet>
+
