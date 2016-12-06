@@ -17,7 +17,7 @@ Will be updated .
 ## Usage
 1. Fork it!
 2. If you are the one speaking this week, add your topic along with the presentation by Wednesday morning.
-3. Commit your changes: `git commit -m '*Topic of your presentation along with date*'
+3. Commit your changes: `git commit -m '*Topic of your presentation along with date*'`
 4. Push to the branch: `git push origin master`
 5. Submit a pull request :D
 
