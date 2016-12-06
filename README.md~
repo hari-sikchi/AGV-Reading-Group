@@ -1,8 +1,6 @@
-# AGV-Reading-Group
-
 <snippet>
   <content><![CDATA[
-# ${1:AGV Discussion chapter}
+# ${1:AGV Discussion Chapter}
 Welcome to the homepage of Autonomous Ground Vehicle reading group at IIT Kharagpur.
 We typically meet Thursday 6 PM at AGV Lab. 
 
